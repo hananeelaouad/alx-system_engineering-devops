@@ -1,3 +1,2 @@
 #!/bin/bash
-echo {a..Z}{a..Z} | tr ' ' '\n' | grep -V 'oo'
-
+echo $((2#BINARY)o)
